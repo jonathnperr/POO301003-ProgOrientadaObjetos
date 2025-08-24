@@ -1,5 +1,9 @@
 # **POO301003 - Programação Orientada a Objetos**  
 
+<p align="center">
+  <img width="667" height="375" alt="home 1" src="https://github.com/user-attachments/assets/a704b525-756c-4c98-9c03-7155d22b5ac4" />
+</p>
+
 ## **ℹ️ Sobre o Repositório**  
 Repositório contendo o **projeto final** da disciplina **POO301003 - Programação Orientada a Objetos**, desenvolvido como parte do Curso Técnico em Desenvolvimento de Sistemas do IFSC. O projeto consiste em um **sistema de gerenciamento para uma lavagem de veículos**, aplicando os principais conceitos de **Orientação a Objetos (OO)** e **arquitetura em camadas (MVC)**.  
 
