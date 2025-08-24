@@ -99,6 +99,4 @@ O projeto visa consolidar os conhecimentos adquiridos na disciplina, aplicando:
 
 3. **Importe no IntelliJ/Eclipse** e execute `MainApp.java`.  
 
-### **🔍 Observações**  
-- O projeto foi desenvolvido para **fins educacionais**, aplicando os conceitos vistos em aula.  
-- **Dúvidas ou contribuições?** Sinta-se à vontade para abrir uma *issue* ou *pull request*.  
+*Material didático para fins educacionais - IFSC Campus Florianópolis*
