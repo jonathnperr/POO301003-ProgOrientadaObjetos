@@ -57,6 +57,19 @@ O projeto visa consolidar os conhecimentos adquiridos na disciplina, aplicando:
 └── 📜 pom.xml (opcional)   # Configuração Maven (se usado)  
 ```
 
+## **🚀 Como Executar o Projeto?**  
+1. **Pré-requisitos:**  
+   - JDK 11+  
+   - MySQL (Banco de dados configurado conforme `DatabaseMySQL.java`)  
+   - JavaFX (Adicionar como biblioteca)  
+
+2. **Clone o repositório:**  
+   ```bash
+   git clone https://github.com/seu-usuario/projeto-lavacao-veiculos.git
+   ```
+
+3. **Importe no IntelliJ/Eclipse** e execute `MainApp.java`. 
+
 ## **📖 Referências Bibliográficas**  
 
 ### **Bibliografia Básica**  
@@ -85,18 +98,5 @@ O projeto visa consolidar os conhecimentos adquiridos na disciplina, aplicando:
 **Professor:** Marcos André Phishing  
 **Código da Disciplina:** POO301003   
 **Semestre:** 3º  
-
-### **🚀 Como Executar o Projeto?**  
-1. **Pré-requisitos:**  
-   - JDK 11+  
-   - MySQL (Banco de dados configurado conforme `DatabaseMySQL.java`)  
-   - JavaFX (Adicionar como biblioteca)  
-
-2. **Clone o repositório:**  
-   ```bash
-   git clone https://github.com/seu-usuario/projeto-lavacao-veiculos.git
-   ```
-
-3. **Importe no IntelliJ/Eclipse** e execute `MainApp.java`.  
 
 *Material didático para fins educacionais - IFSC Campus Florianópolis*
